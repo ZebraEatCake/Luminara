@@ -1,13 +1,24 @@
-[00:18:19] [Server thread/INFO]: IHasKnees lost connection: Disconnected
-[00:18:19] [Server thread/INFO]: IHasKnees left the game
-[00:19:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:22:22] [Server thread/INFO]: Stopping server
-[00:22:22] [Server thread/INFO]: Saving players
-[00:22:22] [Server thread/INFO]: Saving worlds
-[00:22:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[00:22:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[00:22:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[00:22:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[00:22:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:22:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:22:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:11:33] [Server thread/INFO]: <IHasKnees> can u sleep
+[00:15:28] [Server thread/INFO]: <IHasKnees> its working
+[00:18:55] [Server thread/INFO]: <ZebraEatCake> i go see
+[00:19:03] [Server thread/INFO]: <IHasKnees> do u need lanterns
+[00:19:06] [Server thread/INFO]: <ZebraEatCake> yup
+[00:19:20] [Server thread/INFO]: <IHasKnees> i left some in the villager chest
+[00:19:25] [Server thread/INFO]: <IHasKnees> u can buy from librarian
+[00:20:26] [Server thread/INFO]: <IHasKnees> i also left emeralds u can buy armour iyw
+[00:21:33] [Server thread/INFO]: <IHasKnees> i go sleep al
+[00:21:37] [Server thread/INFO]: <ZebraEatCake> ok me too then
+[00:21:42] [Server thread/INFO]: IHasKnees lost connection: Disconnected
+[00:21:42] [Server thread/INFO]: IHasKnees left the game
+[00:21:45] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[00:21:45] [Server thread/INFO]: ZebraEatCake left the game
+[00:22:03] [Server thread/INFO]: Stopping server
+[00:22:03] [Server thread/INFO]: Saving players
+[00:22:03] [Server thread/INFO]: Saving worlds
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[00:22:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[00:22:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
