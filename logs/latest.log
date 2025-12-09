@@ -1,57 +1,29 @@
-[00:00:45] [Server thread/INFO]: <IHasKnees> why wont this guy take the job
-[00:01:02] [Server thread/INFO]: <ZebraEatCake> night time
-[00:01:09] [Server thread/INFO]: <ZebraEatCake> theyn want to sleep
-[00:01:21] [Server thread/INFO]: <IHasKnees> hes still not tkaing
-[00:01:49] [Server thread/INFO]: <IHasKnees> i try another villager
-[00:02:08] [Server thread/INFO]: <ZebraEatCake> wtf
-[00:02:17] [Server thread/INFO]: <ZebraEatCake> so random lol
-[00:02:21] [Server thread/INFO]: <IHasKnees> bruh what
-[00:02:44] [Server thread/INFO]: <ZebraEatCake> silky
-[00:02:48] [Server thread/INFO]: <IHasKnees> have alr
-[00:02:50] [Server thread/INFO]: <ZebraEatCake> scammer
-[00:02:51] [Server thread/INFO]: <ZebraEatCake> 16
-[00:03:24] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[00:03:24] [Server thread/INFO]: ZebraEatCake left the game
-[00:03:26] [User Authenticator #3/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[00:03:27] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:63067] logged in with entity id 36061 at (80.39479639258795, 69.0, 151.81872438038707)
-[00:03:27] [Server thread/INFO]: ZebraEatCake joined the game
-[00:03:38] [Server thread/INFO]: <ZebraEatCake> can alr
-[00:03:43] [Server thread/INFO]: <ZebraEatCake> i think they got work shift
-[00:03:55] [Server thread/INFO]: <IHasKnees> also i realised that the helmet that the villager sells alr have aqua affinity lol
-[00:04:06] [Server thread/INFO]: <ZebraEatCake> we still need book
-[00:04:12] [Server thread/INFO]: <IHasKnees> for what
-[00:04:12] [Server thread/INFO]: <ZebraEatCake> cuz need to disenchant the armor
-[00:04:18] [Server thread/INFO]: <ZebraEatCake> to get max enchanment
-[00:04:27] [Server thread/INFO]: <ZebraEatCake> more exp to enchant armor that is alr enchanted
-[00:04:32] [Server thread/INFO]: <IHasKnees> dont need fire prot right
-[00:04:39] [Server thread/INFO]: <ZebraEatCake> not now
-[00:04:42] [Server thread/INFO]: <ZebraEatCake> nice ot have later
-[00:04:56] [Server thread/INFO]: <IHasKnees> punvh 2?
-[00:05:00] [Server thread/INFO]: <ZebraEatCake> max?
-[00:05:03] [Server thread/INFO]: <IHasKnees> ya
-[00:05:05] [Server thread/INFO]: <ZebraEatCake> sure
-[00:06:43] [Server thread/INFO]: <IHasKnees> bruh this guy not working again
-[00:07:47] [Server thread/INFO]: <IHasKnees> respiration 3 max right
-[00:07:51] [Server thread/INFO]: <ZebraEatCake> idk
-[00:08:06] [Server thread/INFO]: <ZebraEatCake> yes
-[00:08:07] [Server thread/INFO]: <IHasKnees> ya it si
-[00:09:13] [Server thread/INFO]: <IHasKnees> i think i go sleep alr
-[00:09:18] [Server thread/INFO]: <IHasKnees> tmr need to wake up early
-[00:09:24] [Server thread/INFO]: <ZebraEatCake> what time ah tmr
-[00:09:30] [Server thread/INFO]: <IHasKnees> 930 leave
-[00:09:33] [Server thread/INFO]: <ZebraEatCake> ok
-[00:09:38] [Server thread/INFO]: IHasKnees lost connection: Disconnected
-[00:09:38] [Server thread/INFO]: IHasKnees left the game
-[00:09:38] [Server thread/INFO]: <ZebraEatCake> iull sleep too after mining this
-[00:11:30] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[00:11:30] [Server thread/INFO]: ZebraEatCake left the game
-[00:11:34] [Server thread/INFO]: Stopping server
-[00:11:34] [Server thread/INFO]: Saving players
-[00:11:34] [Server thread/INFO]: Saving worlds
-[00:11:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[00:11:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[00:11:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[00:11:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[00:11:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:11:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:11:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:54] [Server thread/INFO]: <ZebraEatCake> wow no more emerald dy
+[00:03:03] [Server thread/INFO]: <IHasKnees> so fast
+[00:04:29] [Server thread/INFO]: <ZebraEatCake> u still wanna play?
+[00:04:31] [Server thread/INFO]: <ZebraEatCake> i go sleep
+[00:04:36] [Server thread/INFO]: <IHasKnees> ok
+[00:04:45] [Server thread/INFO]: <ZebraEatCake> ok means yes or no
+[00:04:47] [Server thread/INFO]: <IHasKnees> yes
+[00:04:57] [Server thread/INFO]: <ZebraEatCake> ok dont forget to off my pc
+[00:05:15] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[00:05:15] [Server thread/INFO]: ZebraEatCake left the game
+[00:05:48] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-20, y=79, z=20} ja{x=-20, y=78, z=21}
+[00:06:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-31, y=77, z=46} ja{x=-31, y=77, z=47}
+[00:17:58] [Server thread/INFO]: IHasKnees has made the advancement [Voluntary Exile]
+[00:20:49] [Server thread/INFO]: IHasKnees has made the advancement [Minecraft: Trial(s) Edition]
+[00:28:36] [Server thread/INFO]: IHasKnees has reached the goal [Revaulting]
+[00:42:29] [Server thread/INFO]: IHasKnees has made the advancement [Under Lock and Key]
+[00:44:54] [Server thread/INFO]: IHasKnees lost connection: Disconnected
+[00:44:54] [Server thread/INFO]: IHasKnees left the game
+[00:45:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:49:08] [Server thread/INFO]: Stopping server
+[00:49:08] [Server thread/INFO]: Saving players
+[00:49:08] [Server thread/INFO]: Saving worlds
+[00:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[00:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[00:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[00:49:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[00:49:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
