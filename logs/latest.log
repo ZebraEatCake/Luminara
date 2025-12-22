@@ -1,33 +1,14 @@
-[00:09:57] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[00:09:57] [Server thread/INFO]: ZebraEatCake left the game
-[00:10:28] [User Authenticator #4/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[00:10:29] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:54766] logged in with entity id 106410 at (4480.881819609288, 64.0, -11213.528561314142)
-[00:10:29] [Server thread/INFO]: ZebraEatCake joined the game
-[00:14:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4474, y=68, z=-11192} is{x=4472, y=67, z=-11193}
-[00:14:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4474, y=68, z=-11192} is{x=4472, y=67, z=-11193}
-[00:15:24] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4471, y=67, z=-11193} is{x=4471, y=68, z=-11193}
-[00:17:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4449, y=67, z=-11191} is{x=4450, y=68, z=-11191}
-[00:17:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4450, y=67, z=-11191} is{x=4451, y=68, z=-11191}
-[00:20:00] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4449, y=65, z=-11210} is{x=4452, y=68, z=-11195}
-[00:20:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4452, y=67, z=-11195} is{x=4452, y=68, z=-11196}
-[00:20:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4452, y=67, z=-11196} is{x=4452, y=68, z=-11198}
-[00:21:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4450, y=68, z=-11201} is{x=4452, y=68, z=-11204}
-[01:13:35] [Server thread/INFO]: <ZebraEatCake> ww
-[01:30:17] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Spectator Mode]
-[01:30:50] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Survival Mode]
-[01:32:59] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Spectator Mode]
-[01:33:18] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Survival Mode]
-[01:33:23] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Spectator Mode]
-[01:33:42] [Server thread/INFO]: [ZebraEatCake: Set own game mode to Survival Mode]
-[01:34:20] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[01:34:20] [Server thread/INFO]: ZebraEatCake left the game
-[01:34:27] [Server thread/INFO]: Stopping server
-[01:34:27] [Server thread/INFO]: Saving players
-[01:34:27] [Server thread/INFO]: Saving worlds
-[01:34:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[01:34:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[01:34:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[01:34:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[01:34:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:34:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:34:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:07:25] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4097, y=68, z=-10591} is{x=4097, y=67, z=-10590}
+[00:10:00] [Server thread/INFO]: MCScans (/45.148.10.134:41142) lost connection: Disconnected
+[00:24:57] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[00:24:57] [Server thread/INFO]: ZebraEatCake left the game
+[00:25:01] [Server thread/INFO]: Stopping server
+[00:25:01] [Server thread/INFO]: Saving players
+[00:25:01] [Server thread/INFO]: Saving worlds
+[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
