@@ -1,14 +1,30 @@
-[00:07:25] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4097, y=68, z=-10591} is{x=4097, y=67, z=-10590}
-[00:10:00] [Server thread/INFO]: MCScans (/45.148.10.134:41142) lost connection: Disconnected
-[00:24:57] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[00:24:57] [Server thread/INFO]: ZebraEatCake left the game
-[00:25:01] [Server thread/INFO]: Stopping server
-[00:25:01] [Server thread/INFO]: Saving players
-[00:25:01] [Server thread/INFO]: Saving worlds
-[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[00:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:25:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:18:41] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[00:18:41] [Server thread/INFO]: ZebraEatCake left the game
+[00:19:25] [User Authenticator #6/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[00:19:25] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:65460] logged in with entity id 61544 at (4102.948143329755, 61.13919393981978, -10600.146799190961)
+[00:19:25] [Server thread/INFO]: ZebraEatCake joined the game
+[00:29:44] [Server thread/INFO]: [ZebraEatCake: The default game mode is now Adventure Mode]
+[01:00:44] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[01:00:44] [Server thread/INFO]: ZebraEatCake left the game
+[01:01:23] [User Authenticator #7/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[01:01:23] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:59992] logged in with entity id 82795 at (572.1136123010693, 128.0, -1403.0173066109235)
+[01:01:23] [Server thread/INFO]: ZebraEatCake joined the game
+[01:10:39] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[01:10:39] [Server thread/INFO]: ZebraEatCake left the game
+[01:11:18] [User Authenticator #8/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[01:11:18] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:51111] logged in with entity id 85101 at (4092.2078243932656, 62.0, -10581.145346175204)
+[01:11:18] [Server thread/INFO]: ZebraEatCake joined the game
+[01:15:49] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[01:15:49] [Server thread/INFO]: ZebraEatCake left the game
+[01:16:27] [Server thread/INFO]: ZebraEatTaco lost connection: Disconnected
+[01:16:27] [Server thread/INFO]: ZebraEatTaco left the game
+[01:16:38] [Server thread/INFO]: Stopping server
+[01:16:38] [Server thread/INFO]: Saving players
+[01:16:38] [Server thread/INFO]: Saving worlds
+[01:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[01:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[01:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[01:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[01:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

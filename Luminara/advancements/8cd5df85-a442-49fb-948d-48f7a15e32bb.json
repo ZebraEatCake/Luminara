@@ -1146,6 +1146,7 @@
     "criteria": {
       "minecraft:blaze": "2025-12-09 22:57:41 +0800",
       "minecraft:skeleton": "2025-12-03 23:21:39 +0800",
+      "minecraft:zombified_piglin": "2025-12-23 23:12:58 +0800",
       "minecraft:wither_skeleton": "2025-12-09 22:56:40 +0800",
       "minecraft:husk": "2025-12-09 22:22:30 +0800",
       "minecraft:ghast": "2025-12-09 19:42:32 +0800",
