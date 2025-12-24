@@ -1,5 +1,29 @@
 {
   "stats": {
+    "minecraft:picked_up": {
+      "minecraft:stone": 1,
+      "minecraft:golden_carrot": 10
+    },
+    "minecraft:custom": {
+      "minecraft:minecart_one_cm": 196687,
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 677711,
+      "minecraft:walk_one_cm": 18133,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 2230,
+      "minecraft:play_time": 677711,
+      "minecraft:jump": 149,
+      "minecraft:time_since_death": 677711,
+      "minecraft:drop": 10,
+      "minecraft:sprint_one_cm": 25038,
+      "minecraft:open_chest": 17,
+      "minecraft:fall_one_cm": 3356,
+      "minecraft:swim_one_cm": 1291,
+      "minecraft:total_world_time": 677711,
+      "minecraft:fly_one_cm": 45209,
+      "minecraft:walk_on_water_one_cm": 101,
+      "minecraft:sneak_time": 56
+    },
     "minecraft:dropped": {
       "minecraft:poppy": 608
     },
@@ -7,32 +31,8 @@
       "minecraft:minecart": 1,
       "minecraft:golden_carrot": 1
     },
-    "minecraft:custom": {
-      "minecraft:minecart_one_cm": 196687,
-      "minecraft:interact_with_crafting_table": 2,
-      "minecraft:time_since_rest": 271591,
-      "minecraft:walk_one_cm": 9458,
-      "minecraft:leave_game": 2,
-      "minecraft:walk_under_water_one_cm": 2230,
-      "minecraft:play_time": 271591,
-      "minecraft:jump": 103,
-      "minecraft:time_since_death": 271591,
-      "minecraft:drop": 10,
-      "minecraft:sprint_one_cm": 19501,
-      "minecraft:open_chest": 14,
-      "minecraft:fall_one_cm": 2231,
-      "minecraft:swim_one_cm": 1291,
-      "minecraft:total_world_time": 271591,
-      "minecraft:fly_one_cm": 29796,
-      "minecraft:walk_on_water_one_cm": 101,
-      "minecraft:sneak_time": 56
-    },
     "minecraft:crafted": {
       "minecraft:iron_block": 148
-    },
-    "minecraft:picked_up": {
-      "minecraft:stone": 1,
-      "minecraft:golden_carrot": 10
     }
   },
   "DataVersion": 4671
