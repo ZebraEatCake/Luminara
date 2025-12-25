@@ -1,38 +1,44 @@
 {
   "stats": {
-    "minecraft:picked_up": {
-      "minecraft:stone": 1,
-      "minecraft:golden_carrot": 10
-    },
-    "minecraft:custom": {
-      "minecraft:minecart_one_cm": 196687,
-      "minecraft:interact_with_crafting_table": 2,
-      "minecraft:time_since_rest": 677711,
-      "minecraft:walk_one_cm": 18133,
-      "minecraft:leave_game": 3,
-      "minecraft:walk_under_water_one_cm": 2230,
-      "minecraft:play_time": 677711,
-      "minecraft:jump": 149,
-      "minecraft:time_since_death": 677711,
-      "minecraft:drop": 10,
-      "minecraft:sprint_one_cm": 25038,
-      "minecraft:open_chest": 17,
-      "minecraft:fall_one_cm": 3356,
-      "minecraft:swim_one_cm": 1291,
-      "minecraft:total_world_time": 677711,
-      "minecraft:fly_one_cm": 45209,
-      "minecraft:walk_on_water_one_cm": 101,
-      "minecraft:sneak_time": 56
-    },
     "minecraft:dropped": {
-      "minecraft:poppy": 608
+      "minecraft:poppy": 608,
+      "minecraft:bamboo": 372
     },
     "minecraft:used": {
       "minecraft:minecart": 1,
       "minecraft:golden_carrot": 1
     },
     "minecraft:crafted": {
-      "minecraft:iron_block": 148
+      "minecraft:iron_block": 148,
+      "minecraft:bamboo_block": 20
+    },
+    "minecraft:custom": {
+      "minecraft:minecart_one_cm": 196687,
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 837680,
+      "minecraft:walk_one_cm": 31480,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 2230,
+      "minecraft:play_time": 837680,
+      "minecraft:jump": 160,
+      "minecraft:time_since_death": 837680,
+      "minecraft:drop": 17,
+      "minecraft:open_enderchest": 1,
+      "minecraft:sprint_one_cm": 46813,
+      "minecraft:open_chest": 31,
+      "minecraft:inspect_hopper": 27,
+      "minecraft:fall_one_cm": 3356,
+      "minecraft:swim_one_cm": 1291,
+      "minecraft:total_world_time": 837680,
+      "minecraft:fly_one_cm": 47091,
+      "minecraft:walk_on_water_one_cm": 101,
+      "minecraft:sneak_time": 56
+    },
+    "minecraft:picked_up": {
+      "minecraft:bamboo": 533,
+      "minecraft:stone": 1,
+      "minecraft:bamboo_block": 11,
+      "minecraft:golden_carrot": 10
     }
   },
   "DataVersion": 4671
