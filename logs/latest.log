@@ -1,23 +1,91 @@
-[00:04:01] [User Authenticator #3/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[00:04:01] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:61244] logged in with entity id 43139 at (4516.616193548092, 73.0, -11216.042538808591)
-[00:04:01] [Server thread/INFO]: ZebraEatCake joined the game
-[00:46:32] [Server thread/INFO]: Villager dcx['Villager'/20098, l='ServerLevel[Luminara]', x=4455.70, y=79.75, z=-11291.70] died, message: 'Villager was slain by ZebraEatCake'
-[01:03:37] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[01:03:37] [Server thread/INFO]: ZebraEatCake left the game
-[01:03:59] [Server thread/INFO]: ZebraEatTaco lost connection: Disconnected
-[01:03:59] [Server thread/INFO]: ZebraEatTaco left the game
-[01:04:03] [User Authenticator #4/INFO]: UUID of player ZebraEatTaco is 6a577dfe-af7e-4da2-b1db-78c55afe0c22
-[01:04:03] [Server thread/INFO]: ZebraEatTaco[/127.0.0.1:65432] logged in with entity id 68230 at (4466.300000011921, 61.0, -11205.300000011921)
-[01:04:03] [Server thread/INFO]: ZebraEatTaco joined the game
-[01:07:04] [Server thread/INFO]: ZebraEatTaco lost connection: Disconnected
-[01:07:04] [Server thread/INFO]: ZebraEatTaco left the game
-[01:07:31] [Server thread/INFO]: Stopping server
-[01:07:31] [Server thread/INFO]: Saving players
-[01:07:31] [Server thread/INFO]: Saving worlds
-[01:07:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[01:07:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[01:07:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[01:07:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[01:07:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:07:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:38:58] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[20:39:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:39:02] [ServerMain/INFO]: Loaded 1470 recipes
+[20:39:02] [ServerMain/INFO]: Loaded 1584 advancements
+[20:39:02] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[20:39:02] [Server thread/INFO]: Loading properties
+[20:39:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:39:02] [Server thread/INFO]: Generating keypair
+[20:39:02] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:281)
+	at java.base/java.lang.System$In.read(System.java:1871)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:183)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400)
+	at ary$1.run(SourceFile:186)
+[20:39:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:39:02] [Server thread/INFO]: Preparing level "Luminara"
+[20:39:02] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:39:02] [Server thread/INFO]: Time elapsed: 11 ms
+[20:39:02] [Server thread/INFO]: Done (0.313s)! For help, type "help"
+[20:40:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:41:05] [User Authenticator #1/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[20:41:07] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:64097] logged in with entity id 95 at (4458.234592861805, 72.875, -11266.47001443858)
+[20:41:07] [Server thread/INFO]: ZebraEatCake joined the game
+[21:03:03] [Server thread/INFO]: Villager dcx['Fisherman'/5779, l='ServerLevel[Luminara]', x=88.51, y=69.05, z=129.50] died, message: 'Fisherman tried to swim in lava'
+[21:04:31] [Server thread/WARN]: Mismatch in destroy block pos: is{x=88, y=69, z=130} is{x=86, y=69, z=129}
+[21:14:06] [Server thread/INFO]: Villager dcx['Fletcher'/5788, l='ServerLevel[Luminara]', x=88.44, y=69.00, z=135.50] died, message: 'Fletcher burned to death'
+[21:14:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=87, y=69, z=135} is{x=88, y=69, z=135}
+[21:17:09] [Server thread/INFO]: Villager dcx['Fletcher'/5789, l='ServerLevel[Luminara]', x=88.51, y=69.05, z=135.50] died, message: 'Fletcher tried to swim in lava'
+[23:07:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4521, y=76, z=-11235} is{x=4521, y=76, z=-11234}
+[23:08:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4539, y=76, z=-11255} is{x=4538, y=76, z=-11255}
+[23:33:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=4108, y=63, z=-10593} is{x=4108, y=65, z=-10592}
+[23:37:37] [Netty NIO IO #21/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aan.a(SourceFile:50)
+	at aan.encode(SourceFile:14)
+	at xj.a(SourceFile:26)
+	at xj.encode(SourceFile:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at wu$2.write(SourceFile:488)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at wu.c(SourceFile:324)
+	at wu.b(SourceFile:316)
+	at wu.a(SourceFile:298)
+	at wu.a(SourceFile:292)
+	at wu.exceptionCaught(SourceFile:143)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:127)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:179)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysPlain(NioIoHandler.java:541)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:514)
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[23:54:42] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[23:54:42] [Server thread/INFO]: ZebraEatCake left the game
+[23:55:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:56:11] [Server thread/INFO]: Stopping server
+[23:56:11] [Server thread/INFO]: Saving players
+[23:56:11] [Server thread/INFO]: Saving worlds
+[23:56:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[23:56:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[23:56:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[23:56:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[23:56:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:56:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:56:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
