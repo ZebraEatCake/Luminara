@@ -1,12 +1,12 @@
-[22:26:15] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[22:26:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[22:26:19] [ServerMain/INFO]: Loaded 1470 recipes
-[22:26:19] [ServerMain/INFO]: Loaded 1584 advancements
-[22:26:19] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[22:26:19] [Server thread/INFO]: Loading properties
-[22:26:19] [Server thread/INFO]: Default game type: SURVIVAL
-[22:26:19] [Server thread/INFO]: Generating keypair
-[22:26:19] [Server console handler/ERROR]: Exception handling console input
+[22:44:06] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[22:44:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:44:11] [ServerMain/INFO]: Loaded 1470 recipes
+[22:44:11] [ServerMain/INFO]: Loaded 1584 advancements
+[22:44:11] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[22:44:11] [Server thread/INFO]: Loading properties
+[22:44:11] [Server thread/INFO]: Default game type: SURVIVAL
+[22:44:11] [Server thread/INFO]: Generating keypair
+[22:44:11] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method)
 	at java.base/java.io.FileInputStream.read(FileInputStream.java:281)
@@ -21,34 +21,29 @@ java.io.IOException: The handle is invalid
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333)
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400)
 	at ary$1.run(SourceFile:186)
-[22:26:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:26:20] [Server thread/INFO]: Preparing level "Luminara"
-[22:26:20] [Server thread/INFO]: Loading 0 persistent chunks...
-[22:26:20] [Server thread/INFO]: Preparing spawn area: 100%
-[22:26:20] [Server thread/INFO]: Time elapsed: 12 ms
-[22:26:20] [Server thread/INFO]: Done (0.350s)! For help, type "help"
-[22:26:24] [User Authenticator #1/INFO]: UUID of player ZebraEatTaco is 6a577dfe-af7e-4da2-b1db-78c55afe0c22
-[22:26:25] [Server thread/INFO]: ZebraEatTaco[/127.0.0.1:65439] logged in with entity id 105 at (4094.445350535343, 63.0, -10589.699999988079)
-[22:26:25] [Server thread/INFO]: ZebraEatTaco joined the game
-[23:21:09] [User Authenticator #2/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[23:21:10] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:53208] logged in with entity id 8965 at (4476.301762346061, 70.0, -11252.978461311071)
-[23:21:10] [Server thread/INFO]: ZebraEatCake joined the game
-[23:24:22] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[23:24:22] [Server thread/INFO]: ZebraEatCake left the game
-[23:24:36] [User Authenticator #3/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[23:24:36] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:54227] logged in with entity id 10308 at (4488.934257751943, 70.0, -11178.512102498025)
-[23:24:36] [Server thread/INFO]: ZebraEatCake joined the game
-[23:59:15] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[23:59:15] [Server thread/INFO]: ZebraEatCake left the game
-[23:59:24] [Server thread/INFO]: ZebraEatTaco lost connection: Disconnected
-[23:59:24] [Server thread/INFO]: ZebraEatTaco left the game
-[23:59:25] [Server thread/INFO]: Stopping server
-[23:59:25] [Server thread/INFO]: Saving players
-[23:59:25] [Server thread/INFO]: Saving worlds
-[23:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
-[23:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
-[23:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
-[23:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
-[23:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:44:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:44:12] [Server thread/INFO]: Preparing level "Luminara"
+[22:44:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:44:12] [Server thread/INFO]: Time elapsed: 11 ms
+[22:44:12] [Server thread/INFO]: Done (0.343s)! For help, type "help"
+[22:45:09] [User Authenticator #1/INFO]: UUID of player ZebraEatTaco is 6a577dfe-af7e-4da2-b1db-78c55afe0c22
+[22:45:10] [Server thread/INFO]: ZebraEatTaco[/127.0.0.1:57960] logged in with entity id 95 at (4094.445350535343, 63.0, -10589.699999988079)
+[22:45:10] [Server thread/INFO]: ZebraEatTaco joined the game
+[22:46:52] [User Authenticator #2/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[22:46:52] [Server thread/INFO]: ZebraEatCake[/127.0.0.1:50013] logged in with entity id 605 at (4489.422762526663, 71.0, -11196.79509190807)
+[22:46:53] [Server thread/INFO]: ZebraEatCake joined the game
+[23:29:53] [Server thread/INFO]: MCScans (/45.148.10.134:33046) lost connection: Disconnected
+[23:47:00] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[23:47:00] [Server thread/INFO]: ZebraEatCake left the game
+[23:47:11] [Server thread/INFO]: ZebraEatTaco lost connection: Disconnected
+[23:47:11] [Server thread/INFO]: ZebraEatTaco left the game
+[23:47:14] [Server thread/INFO]: Stopping server
+[23:47:14] [Server thread/INFO]: Saving players
+[23:47:14] [Server thread/INFO]: Saving worlds
+[23:47:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:overworld
+[23:47:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_nether
+[23:47:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Luminara]'/minecraft:the_end
+[23:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (Luminara): All chunks are saved
+[23:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
