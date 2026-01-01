@@ -1,0 +1,25 @@
+{
+  "playerConfigs": {
+    "8cd5df85-a442-49fb-948d-48f7a15e32bb": {
+      "helmetTransparency": 1.0,
+      "chestTransparency": 1.0,
+      "legsTransparency": 0.0,
+      "bootsTransparency": 0.0,
+      "playerId": "8cd5df85-a442-49fb-948d-48f7a15e32bb",
+      "playerName": "ZebraEatCake",
+      "enableCombatDetection": false
+    }
+  },
+  "playerNameConfigs": {
+    "ZebraEatCake": {
+      "helmetTransparency": 1.0,
+      "chestTransparency": 1.0,
+      "legsTransparency": 0.0,
+      "bootsTransparency": 0.0,
+      "playerId": "8cd5df85-a442-49fb-948d-48f7a15e32bb",
+      "playerName": "ZebraEatCake",
+      "enableCombatDetection": false
+    }
+  },
+  "enableCombatDetection": true
+}
