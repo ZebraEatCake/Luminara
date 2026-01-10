@@ -1,5 +1,5 @@
-[18:11:52] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
-[18:11:52] [main/INFO]: Loading 42 mods:
+[18:06:04] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
+[18:06:04] [main/INFO]: Loading 42 mods:
 	- armor-hider 1.21.11-0.4.1
 	- fabric-api 0.140.2+1.21.11
 	   |-- fabric-api-base 1.0.5+4ebb5c083e
@@ -49,49 +49,51 @@
 	   \-- mixinextras 0.5.0
 	- java 25
 	- minecraft 1.21.11
-[18:11:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/kyevi/Desktop/Luminara/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:11:52] [main/INFO]: Compatibility level set to JAVA_21
-[18:11:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[18:11:53] [main/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[18:11:58] [main/INFO]: [Zannagh's Armor Hider] - Armor Hider initializing...
-[18:11:58] [main/INFO]: [Zannagh's Armor Hider] - Armor Hider initialized.
-[18:11:58] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[18:11:58] [main/WARN]: resource-pack-id missing, using default of 773e3673-f33c-3411-b88d-950bfc18d134
-[18:11:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:11:59] [main/INFO]: Loaded 1470 recipes
-[18:11:59] [main/INFO]: Loaded 1584 advancements
-[18:12:00] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.185 ms
-[18:12:00] [Server thread/INFO]: [Zannagh's Armor Hider] - Loaded server config (new format).
-[18:12:00] [Server thread/INFO]: [Zannagh's Armor Hider] - Server config store opened
-[18:12:00] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[18:12:00] [Server thread/INFO]: Loading properties
-[18:12:00] [Server thread/INFO]: Default game type: SURVIVAL
-[18:12:00] [Server thread/INFO]: Generating keypair
-[18:12:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:12:00] [Server thread/INFO]: Preparing level "Luminara"
-[18:12:00] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:12:00] [Server thread/INFO]: Preparing spawn area: 100%
-[18:12:00] [Server thread/INFO]: Time elapsed: 78 ms
-[18:12:00] [Server thread/INFO]: Done (0.355s)! For help, type "help"
-[18:12:03] [User Authenticator #1/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[18:12:05] [Server thread/INFO]: ZebraEatCake[/192.168.0.125:63965] logged in with entity id 29 at (-1806.4713148005997, 56.5, -804.1293338201291)
-[18:12:05] [Server thread/INFO]: [Zannagh's Armor Hider] - Player joined with ID 8cd5df85-a442-49fb-948d-48f7a15e32bb. Sending current server config to client...
-[18:12:05] [Server thread/INFO]: ZebraEatCake joined the game
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
-[18:12:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
-[18:18:04] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/2960, l='ServerLevel[Luminara]', x=4564.25, y=68.00, z=-11209.79]
-[20:09:06] [Server thread/INFO]: Villager class_1646['Villager'/3170, l='ServerLevel[Luminara]', x=4486.88, y=69.00, z=-11271.16] died, message: 'Villager was squished too much'
-[20:16:53] [Netty NIO IO #14/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[18:06:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/kyevi/Desktop/Luminara/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:06:04] [main/INFO]: Compatibility level set to JAVA_21
+[18:06:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[18:06:05] [main/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[18:06:10] [main/INFO]: [Zannagh's Armor Hider] - Armor Hider initializing...
+[18:06:10] [main/INFO]: [Zannagh's Armor Hider] - Armor Hider initialized.
+[18:06:10] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[18:06:10] [main/WARN]: resource-pack-id missing, using default of 773e3673-f33c-3411-b88d-950bfc18d134
+[18:06:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:06:12] [main/INFO]: Loaded 1470 recipes
+[18:06:12] [main/INFO]: Loaded 1584 advancements
+[18:06:12] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.113 ms
+[18:06:12] [Server thread/INFO]: [Zannagh's Armor Hider] - Loaded server config (new format).
+[18:06:12] [Server thread/INFO]: [Zannagh's Armor Hider] - Server config store opened
+[18:06:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:06:12] [Server thread/INFO]: Loading properties
+[18:06:12] [Server thread/INFO]: Default game type: SURVIVAL
+[18:06:12] [Server thread/INFO]: Generating keypair
+[18:06:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:06:12] [Server thread/INFO]: Preparing level "Luminara"
+[18:06:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:06:13] [Server thread/INFO]: Preparing spawn area: 100%
+[18:06:13] [Server thread/INFO]: Time elapsed: 63 ms
+[18:06:13] [Server thread/INFO]: Done (0.432s)! For help, type "help"
+[18:07:01] [User Authenticator #1/INFO]: UUID of player ZebraEatCake is 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[18:07:04] [Server thread/INFO]: ZebraEatCake[/192.168.0.125:62303] logged in with entity id 118 at (4466.51034246707, 61.0, -11204.300000011921)
+[18:07:04] [Server thread/INFO]: [Zannagh's Armor Hider] - Player joined with ID 8cd5df85-a442-49fb-948d-48f7a15e32bb. Sending current server config to client...
+[18:07:04] [Server thread/INFO]: ZebraEatCake joined the game
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Server received settings packet from 8cd5df85-a442-49fb-948d-48f7a15e32bb
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Saved server config.
+[18:07:06] [Server thread/INFO]: [Zannagh's Armor Hider] - Sending config to players...
+[19:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4400, y=-52, z=-11187} class_2338{x=4401, y=-53, z=-11187}
+[19:17:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4402, y=-57, z=-11192} class_2338{x=4402, y=-58, z=-11192}
+[19:25:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4402, y=-44, z=-11199} class_2338{x=4402, y=-46, z=-11200}
+[19:25:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4402, y=-44, z=-11199} class_2338{x=4402, y=-46, z=-11200}
+[20:36:08] [Netty NIO IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at knot//net.minecraft.class_9136.method_56426(class_9136.java:50)
 	at knot//net.minecraft.class_9136.encode(class_9136.java:14)
@@ -129,5 +131,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[23:39:54] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
-[23:39:54] [Server thread/INFO]: ZebraEatCake left the game
+[22:49:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4406, y=-55, z=-11185} class_2338{x=4404, y=-56, z=-11191}
+[22:49:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4406, y=-55, z=-11185} class_2338{x=4404, y=-56, z=-11191}
+[23:25:33] [Server thread/INFO]: ZebraEatCake lost connection: Disconnected
+[23:25:33] [Server thread/INFO]: ZebraEatCake left the game
